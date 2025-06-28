@@ -47,7 +47,7 @@ The application includes the following tables with relationships:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/sql-practice-app.git
+   git clone https://github.com/s1t2g0/sql-practice-app.git
    cd sql-practice-app
    ```
 
